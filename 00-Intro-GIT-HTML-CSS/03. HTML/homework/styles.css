@@ -10,9 +10,9 @@ h1 {
     background-color: cornsilk;
     padding: 50px;
     border-style: dotted;
-    border-color: darkslategray; 
+    border: 2px solid darkslategray; 
   }
   #spanId {
     font-size: 18px;
-    border: 50px;
+    margin: 50px;
   }
