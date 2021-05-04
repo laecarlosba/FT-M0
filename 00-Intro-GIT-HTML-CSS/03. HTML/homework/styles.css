@@ -9,7 +9,6 @@ h1 {
     height: 600px; 
     background-color: cornsilk;
     padding: 50px;
-    border-style: dotted;
     border: 2px solid darkslategray; 
   }
   #spanId {
