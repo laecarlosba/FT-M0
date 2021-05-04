@@ -1,0 +1,18 @@
+h1 {
+    color: cornflowerblue;
+  }
+  img {
+    width: 400px;
+  }
+  #thirdDiv {
+    width: 500px; 
+    height: 600px; 
+    background-color: cornsilk;
+    padding: 50px;
+    border-style: dotted;
+    border-color: darkslategray; 
+  }
+  #spanId {
+    font-size: 18px;
+    border: 50px;
+  }
